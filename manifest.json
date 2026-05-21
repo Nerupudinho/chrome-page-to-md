@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Page to Markdown",
+  "version": "1.0",
+  "description": "One-click: save any webpage as a clean Markdown (.md) file.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Save page as Markdown"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
