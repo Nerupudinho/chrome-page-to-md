@@ -58,7 +58,7 @@ When filling out the Chrome Web Store privacy practices tab:
   - Does this extension transmit data to third parties? **No**
   - Certify the extension complies with the Developer Program Policies
 - **Privacy policy URL:** Link to the raw `PRIVACY.md` file on GitHub:
-  `https://github.com/Nerupudinho/Page-to-Markdown/blob/main/PRIVACY.md`
+  `https://github.com/Nerupudinho/chrome-page-to-md/blob/main/PRIVACY.md`
 
 ## Assets Checklist
 

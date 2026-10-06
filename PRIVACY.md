@@ -28,7 +28,7 @@ This extension does not use any third-party services, analytics, tracking, or ad
 
 ## Contact
 
-For questions about this privacy policy, please open an issue on the [GitHub repository](https://github.com/Nerupudinho/Page-to-Markdown).
+For questions about this privacy policy, please open an issue on the [GitHub repository](https://github.com/Nerupudinho/chrome-page-to-md).
 
 ---
 
